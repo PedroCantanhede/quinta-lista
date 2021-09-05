@@ -1,0 +1,6 @@
+S rtx 3080
+S ryzen 5 5600
+N controle xbox
+S headset 
+N garrafa termica
+S alexa echo dot
